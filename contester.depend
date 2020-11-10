@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605018631 source:c:\users\слава\desktop\презентации\информатика и информационные технологии\языки программирования\codeblocks\contester\main.cpp
+	<iostream>
+	<clocale>
+	"comands.h"
+
+1604990464 c:\users\слава\desktop\презентации\информатика и информационные технологии\языки программирования\codeblocks\contester\comands.h
+
+1604990580 source:c:\users\слава\desktop\презентации\информатика и информационные технологии\языки программирования\codeblocks\contester\comands.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<filesystem>
+	"comands.h"
+
